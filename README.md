@@ -6,7 +6,7 @@
 Where technology feels like a game, I turn bugs into lessons and builds into progress — always evolving to the next level.
 
 ---
-- 🎓 FullStack
+- 🎓 FullStack Jr
 - 📍 Goiânia, Brasil
 - 💬 Open to collaborations and projects.
 - 📫 Let’s create something great: **laylaaugustausa@gmail.com**
