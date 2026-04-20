@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">Hello Stranger, I'm Layla Augusta!</h1>
+
 ---
 - 🎓 FullStack Jr
 - 📍 Goiânia, Brasil
