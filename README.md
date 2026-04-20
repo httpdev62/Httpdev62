@@ -1,7 +1,6 @@
 <p align="center">
   <img src="Mascote 1.gif" width="150" />
 </p>
-
 <h1 align="center">Hello Stranger, I'm Layla Augusta!</h1>
 
 ---
