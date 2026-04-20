@@ -20,7 +20,7 @@ Where technology feels like a game, I turn bugs into lessons and builds into pro
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=httpdev62&layout=compact&theme=tokyonight)
 
-## Contato
+## Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/laylaaugusta) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laylaaugustausa@gmail.com)
 
 ---
