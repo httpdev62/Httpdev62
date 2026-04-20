@@ -3,8 +3,6 @@
 </p>
 
 <h1 align="center">Hello Stranger, I'm Layla Augusta!</h1>
-Where technology feels like a game, I turn bugs into lessons and builds into progress — always evolving to the next level.
-
 ---
 - 🎓 FullStack Jr
 - 📍 Goiânia, Brasil
