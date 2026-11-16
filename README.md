@@ -20,9 +20,9 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=httpdev62&show_icons=true&theme=tokyonight)
+![GitHub Stats])
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=httpdev62&layout=compact&theme=tokyonight)
+![Top Langs]()
 
 ## Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/laylaaugusta) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laylaaugustausa@gmail.com)
